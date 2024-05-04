@@ -1,6 +1,6 @@
 {
   "name": "@ronelio/ng-brazil",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "license": "MIT",
   "homepage": "https://github.com/mariohmol/ng-brazil",
   "repository": {
@@ -15,9 +15,9 @@
     "utils"
   ],
   "peerDependencies": {
-    "@angular/core": ">=15.0.0 <16.0.0",
-    "@angular/common": ">=15.0.0 <16.0.0",
-    "@angular/platform-browser": ">=15.0.0 <16.0.0",
+    "@angular/core": ">=16.0.0 <17.0.0",
+    "@angular/common": ">=16.0.0 <17.0.0",
+    "@angular/platform-browser": ">=16.0.0 <17.0.0",
     "js-brasil": "*"
   },
   "ngPackage": {

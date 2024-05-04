@@ -3,7 +3,7 @@
 
 Contains pipes / directives / validators / mask for brazillian like apps
 
-Supports: Angular2 to Angular15
+Supports: Angular2 to Angular16
 
 ## Live example:  
 
